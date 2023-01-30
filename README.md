@@ -1,6 +1,9 @@
 # nflscrapper
 Using praw, scrape game threads for popular buzzwords and create bar graph to visualize
 
+![Alt text](scrapperscreenshot.png?raw=true "screenshot")
+
+
 *A user at my schools programming club made something similar to this summer semester of 2022 for soccer. I remember them posting about it in our club discord. They day of the championships I thought it would be cool to write while I watched but I wanted to try and keep my process as original as possible so I did not go back and look at their post. Now that I have this fleshed out, I am going to backtrack and see if they have their own repo with their implementation! tl;dr: This idea is not mine, the scraping was done following the guide below, the logic for cleaning the scaped data is what I came up with!*
 
 I cannot take credit for the scraping, I followed this awesome guide on praw: https://www.geeksforgeeks.org/scraping-reddit-using-python/
